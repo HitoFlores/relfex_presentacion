@@ -13,5 +13,8 @@ INTAGRAM_URL="https://www.instagram.com/hitoflores"
 #Sponsors
 MUSST_URL="https://www.musst.net/"
 
+#Desarrollo
+GITHUB_URL="https://github.com/HitoFlores"
+
 #G-TAG
 ANALITIC_TAG = "44LPX2S8E6"

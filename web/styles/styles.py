@@ -24,6 +24,7 @@ class Size(Enum):
 
 class SizeInt(Enum):
     ZERO="0"
+    VERYSAMLL="1"
     SMALL="2"
     DEFAULT="4"
     BIG="6"
