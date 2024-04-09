@@ -12,3 +12,6 @@ INTAGRAM_URL="https://www.instagram.com/hitoflores"
 
 #Sponsors
 MUSST_URL="https://www.musst.net/"
+
+#G-TAG
+ANALITIC_TAG = "44LPX2S8E6"
